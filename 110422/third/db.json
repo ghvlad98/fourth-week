@@ -17,6 +17,12 @@
       "memory": 3000,
       "desc": "",
       "id": 24
+    },
+    {
+      "label": "Nokia 5570",
+      "price": 800,
+      "os": "android",
+      "id": 25
     }
   ],
   "login": {
